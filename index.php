@@ -99,7 +99,7 @@ div.desc {
 <p>um belo de um "Spoiler", o curso de Análise e de Sistemas possuí em sua grade curricular várias disciplinas que contemplam a prática e a teoria correlação, inicialmente,</p>
 <p>o curso possui duração de 3 anos, possibilita ao discente uma aprendizagem de alto nivel e capacitação para um mercado sempre em alta.
 
-<div class="gallery">
+<div class="gallery">  
   <a target="_blank" href="img_5terre.jpg">
     <img src="img_5terre.jpg" alt="Cinque Terre" width="600" height="400">
   </a>
