@@ -97,7 +97,7 @@ div.desc {
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Diante da evasão e trancamento de curso, os discentes do curso de Análise e Desenvolvimento de Sistemas necessitam</p>
 <p>de informações prévias e específicas sobre o curso, com esse propósito a intenção deste site e justamente te informar sobre o que o curso e oferecer ao programador</p>
 <p>um belo de um "Spoiler", o curso de Análise e de Sistemas possuí em sua grade curricular várias disciplinas que contemplam a prática e a teoria correlação, inicialmente,</p>
-<p>o curso possui duração de 3 anos, possibilita ao discente uma aprendizagem de alto nivel e capacitação para um mercado sempre em alta.
+<p>o curso possui duração de 3 anos, possibilita ao discente uma aprendizagem de alto nivel e capacitação para um mercado sempre em alta.</p>
 
 <div class="gallery">  
   <a target="_blank" href="img_5terre.jpg">
